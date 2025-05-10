@@ -12,9 +12,15 @@ export const viewport: Viewport = {
 }
 
 export const metadata: Metadata = {
-  title: 'Nim - Personal website template',
-  description:
-    'Nim is a free and open-source personal website template built with Next.js 15, React 19 and Motion-Primitives.',
+  title: 'Yutika Rege | Machine Learning Engineer',
+  description: 'Pioneering AI-driven solutions at the intersection of machine learning and business intelligence. Specializing in LLM applications, computer vision, and intelligent systems that transform complex data challenges into intuitive business solutions.',
+  keywords: 'Machine Learning Engineer, AI Solutions, LLM Applications, Computer Vision, NLP, Data Science, Python, PyTorch, TensorFlow, LangChain, LangGraph',
+  // openGraph: {
+  //   title: 'Yutika Rege | Machine Learning Engineer',
+  //   description: 'Pioneering AI-driven solutions at the intersection of machine learning and business intelligence.',
+  //   images: [{ url: '/profile-image.jpg', width: 1200, height: 630 }],
+  //   type: 'website',
+  // },
 }
 
 const geist = Geist({
